@@ -1,4 +1,4 @@
-package com.example.springredditclone.model;
+package com.example.whatsnew.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
